@@ -1,4 +1,4 @@
-# Lasagne nach Elisas Omas Art
+# Lasagne nach Elisas-Kinderkochbuch Art
 
 ## Bechamelsoße
 
