@@ -5,3 +5,5 @@
 Kann gut das doppelte gemacht werden.
 
 Das hab ich noch nicht ausprobiert, aber die champignons können gut mit am anfgang mit gemacht werden, anstatt in einer seperaten Pfanne zu machen.
+
+Parmesan kann gut das 3fache rein lul
