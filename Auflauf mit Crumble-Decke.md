@@ -1,11 +1,23 @@
 # Auflauf mit Cumble-Decke
 Quelle: https://www.rewe.de/rezepte/kartoffel-moehren-auflauf-crumble-decke/
 
-4 Eier
-200ml Sahne
-Gewürze (Muskat, Thymian)
-1.5kg Auflaufdinge (1kg Möhren, 500g Kartoffeln)
+## Zutaten
+Crumble:
+- 120g Mehl
+- 120g Parmesan
+- 100g Butter
+- Thymian-Zweige?
 
+Soße:
+- 4 Eier
+- 200ml Sahne
+- Gewürze (Muskat,  Salz, Pfeffer)
+
+Auflaufdinge Beispiel:
+- 1kg Kartoffelmn
+- 500g Möhren
+
+## Zubereitung
 1. Kartoffeln 15-20min Kochen
 1. 200 °C Ober-/Unterhitze vorheizen
 1. Auflaufdinge schneiden
